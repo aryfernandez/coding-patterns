@@ -1,6 +1,6 @@
 #Day 1 
 
-## What I Learned thus far 
+## What I Learned 
 
 - Filter
 - Count
@@ -40,6 +40,20 @@ create the first window?
 Why do we use k?
 
 ## Things That Clicked 
+
+[:k] means:
+
+Take items from the beginning up to (but not including) k.
+
+Example:
+
+nums = [4, 7, 3, 9, 2]
+
+nums[:3]
+
+Result:
+
+[4, 7, 3] 
 
 k is simply a variable, just curious why the letter k
 
