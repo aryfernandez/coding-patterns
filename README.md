@@ -1,23 +1,31 @@
 # Coding Patterns 
 
-This repository documents my journey learning data structures, algorithms, and software engineering fundamentals.
+This repository documents my journey learning software engineering, algorithms, data structures, and problem solving.
 
 ## Current Topics 
 
 -Arrays
 -Hash Maps 
 -Sets 
--Sliding Window 
+-Fixed Window
+-Dynamic Window
 -Two Pointers 
 -Frequency Counting 
 
-## Goal 
+## Current Focus 
 
-Build strong problem-solving skills and a solid foundation for software engineering. 
+Learning how to recognize patterns and understand why solutions work, not just memorize syntax.
 
 ## Progress 
 
-### Day 1 
--Fixed Window + Best Tracking 
--Filter Pattern 
--Output Determines Action 
+### Week 1 
+-Filter Pattern
+-Count Pattern 
+-Sum Pattern 
+-Best Tracking 
+-Best With Condition
+-Sets 
+-Hash Maps 
+-Fixed Sliding Window
+-Dynamic Sliding Window 
+-Two Pointers 
