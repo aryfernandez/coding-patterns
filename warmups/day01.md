@@ -29,7 +29,7 @@ Expand.
 Repair.
 Continue. 
 
-## Things That Confuse Me
+## Questions I Still Have (June 1, 2026)
 
 Why does:
 
