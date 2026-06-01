@@ -1,34 +1,46 @@
-# Day 1 Warmups
-## Problem 1 
+#Day 1 
 
-Strategy: Fixed Window + Best Tracking 
+## What I Learned thus far 
 
-Track: 
-Maximum sum of any 4 consecutive numbers
+- Filter
+- Count
+- Sum
+- Boolean
+- Best Tracking
+- Best With Condition
+- Sets
+- Hash Maps
+- Fixed Sliding Window
+- Dynamic Sliding Window
+- Two Pointers
 
-Notes:
--Keep running window sum 
--Remove left value
--Add right value 
--Compare against best 
+## Biggest Realizations
 
---------
+Output determines action.
 
-## Problem 2 
+State = information being tracked. 
 
-Strategy: Filter 
+Fixed Window:
+Remove old.
+Add new. 
 
-Track:
-Negative numbers 
+Dynamic Window:
+Expand. 
+Repair.
+Continue. 
 
-Notes:
--Check each number 
--Add negative to result list 
+## Things That Confuse Me
 
----------
+Why does:
 
-## What I learned 
+window_sum = sum(nums[:k])
 
-- Output determines action
-- Track only what matters
-- Sliding windows avoid recalculating everything 
+create the first window?
+
+Why do we use k?
+
+## Things That Clicked 
+
+k is simply a variable, just curious why the letter k
+
+window_size is more readable. 
